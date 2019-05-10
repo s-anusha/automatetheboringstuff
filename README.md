@@ -20,6 +20,9 @@
 - regexVersionOfStrip.py
 
 #### Chapter 8 – Reading and Writing Files
+- extendingTheMulticlipboard.py
+- madLibs.py
+- regexSearch.py
 
 #### Chapter 9 – Organizing Files
 
