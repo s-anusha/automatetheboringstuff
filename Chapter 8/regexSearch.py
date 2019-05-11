@@ -13,8 +13,8 @@ userRegex = input()
 searchRegex = re.compile(userRegex)
 print('\n')
 
-for file in os.listdir("."):
-    if file.endswith(".txt"):
+for file in os.listdir('.'):
+    if file.endswith('.txt'):
 	print(file)
         checkFile = open(file, 'r')
 	for line in checkFile:

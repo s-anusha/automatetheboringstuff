@@ -25,6 +25,9 @@
 - regexSearch.py
 
 #### Chapter 9 – Organizing Files
+- selectiveCopy.py
+- [] deletingUnneededFiles.py
+- [] fillingInTheGaps.py
 
 #### Chapter 10 – Debugging
 
