@@ -32,8 +32,17 @@
 #### Chapter 10 – Debugging
 
 #### Chapter 11 – Web Scraping
+- [] commandLineEmailer.py
+- [] imageSiteDownloader.py
+- [] 2048.py
+- [] lineVerification.py
 
 #### Chapter 12 – Working with Excel Spreadsheets
+- multiplicationTableMaker.py
+- blankRowInserter.py
+- spreadsheetCellInverter.py
+- textFilesToSpreadsheet.py
+- spreadsheetToTextFiles.py
 
 #### Chapter 13 – Working with PDF and Word Documents
 
