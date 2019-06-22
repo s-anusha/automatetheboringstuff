@@ -45,12 +45,19 @@
 - spreadsheetToTextFiles.py
 
 #### Chapter 13 – Working with PDF and Word Documents
+- pdfParanoia.py
+- customInvitationsAsWordDocuments.py
+- brute-forcePdfPasswordBreaker.py
 
 #### Chapter 14 – Working with CSV Files and JSON Data
+- excel-To-CSV-Converter.py
 
 #### Chapter 15 – Keeping Time, Scheduling Tasks, and Launching Programs
+- prettifiedStopwatch.py
+- scheduledWebComicDownloader.py
 
 #### Chapter 16 – Sending Email and Text Messages
+- [] randomChoreAssignmentEmailer
 
 #### Chapter 17 – Manipulating Images
 
