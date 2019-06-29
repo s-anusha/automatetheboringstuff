@@ -5,7 +5,6 @@ Write a function that uses regular expressions to make sure the password string 
 '''
 # Usage: Usage: python strongPasswordDetection.py password
 
-
 import re
 
 passwordLengthRegex = re.compile(r'^\S{8,}$')	# password is eight characters long

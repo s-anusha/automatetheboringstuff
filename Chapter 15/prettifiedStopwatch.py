@@ -20,7 +20,7 @@ Next, use the pyperclip module introduced in Chapter 6 to copy the text output t
 # Usage: python prettifiedStopwatch.py
 
 import time
-# import pyperclip
+import pyperclip
 
 print('Press ENTER to begin. Afterwards, press ENTER to "click" the stopwatch. Press Ctrl-C to quit.')
 input()                    # press Enter to begin

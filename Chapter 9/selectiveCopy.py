@@ -5,7 +5,6 @@ Write a program that walks through a folder tree and searches for files with a c
 '''
 # Usage: python selectiveCopy.py .extension
 
-
 import sys, os, shutil
 
 if len(sys.argv) < 2:

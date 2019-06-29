@@ -26,7 +26,7 @@
 
 #### Chapter 9 – Organizing Files
 - selectiveCopy.py
-- [] deletingUnneededFiles.py
+- deletingUnneededFiles.py
 - [] fillingInTheGaps.py
 
 #### Chapter 10 – Debugging
@@ -58,11 +58,19 @@
 
 #### Chapter 16 – Sending Email and Text Messages
 - [] randomChoreAssignmentEmailer
+- [] umbrellaReminder.py
+- [] autoUnsubscriber.py
+- [] controllingYourComputerThroughEmail.py
 
 #### Chapter 17 – Manipulating Images
+- extendingAndFixingTheChapterProjectPrograms.py
+- identifyingPhotoFoldersOnTheHardDrive.py
+- customSeatingCards.py
 
 #### Chapter 18 – Controlling the Keyboard and Mouse with GUI Automation
-
+- lookingBusy.py
+- [] instantMessengerBot.py
+- [] game-PlayingBotTutorial.py
 
 ## Reference
 
